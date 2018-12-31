@@ -1,0 +1,55 @@
+html {
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(250,205,255,1) 44%, rgba(255,255,255,1) 100%);
+}
+
+nav {
+  font-family: 'Caveat', cursive;
+  font-size: 36px;
+  text-align: center;
+  text-shadow: 2px 2px #9e7cbf;
+}
+
+#mainText {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 72px;
+  text-align: center;
+  text-shadow: 2px 3px #9e7cbf;
+
+
+}
+
+#fox {
+
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #8f60bb;
+  text-shadow: none;
+}
+
+
+a:active {
+  text-decoration: none;
+  color: black;
+}
