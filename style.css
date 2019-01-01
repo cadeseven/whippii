@@ -19,6 +19,19 @@ nav {
 
 }
 
+.prp {
+  color: purple;
+  display: inline-block;
+}
+
+#pricing {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 54px;
+  text-align: center;
+  text-shadow: 2px 2px #9e7cbf;
+  color: white;
+}
+
 #buy {
   font-family: 'Caveat Brush', cursive;
   font-size: 72px;
