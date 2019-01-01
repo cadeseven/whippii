@@ -11,18 +11,61 @@ nav {
 
 #mainText {
   font-family: 'Caveat Brush', cursive;
+  margin-top: 2%;
+  font-size: 100px;
+  text-align: center;
+  text-shadow: 2px 3px #9e7cbf;
+  color: white;
+
+}
+
+#buy {
+  font-family: 'Caveat Brush', cursive;
   font-size: 72px;
   text-align: center;
   text-shadow: 2px 3px #9e7cbf;
 
+}
+
+#banners {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 53%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#fox2 {
+margin-top: 500px;
 
 }
 
-#fox {
+#banner1 {
+  width: 700px;
+  height: auto;
+}
 
+#banner2 {
+  width: 700px;
+  height: auto;
+}
+
+#banner3 {
+  width: 700px;
+  height: auto;
 }
 
 .center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.centerwidth {
   margin: 0;
   position: absolute;
   top: 50%;
@@ -39,7 +82,7 @@ a:link {
 
 a:visited {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 a:hover {
@@ -51,5 +94,5 @@ a:hover {
 
 a:active {
   text-decoration: none;
-  color: black;
+  color: white;
 }
